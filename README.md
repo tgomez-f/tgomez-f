@@ -6,10 +6,13 @@
 </p>
 
 ---
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,c,cpp,docker,nginx,linux,bash,git,github" alt="C, C++, React, JavaScript, TypeScript, Node.js, Express, HTML, CSS, Docker, Nginx, Linux, Bash, Git, GitHub" />
-</p>
+### Outils utilisés et en cours d'apprentissage
+
+<img src="https://skillicons.dev/icons?i=c,cpp,react,js,ts,nodejs,express,html,css,docker,nginx,linux,bash,git,github" alt="C, C++, React, JavaScript, TypeScript, Node.js, Express, HTML, CSS, Docker, Nginx, Linux, Bash, Git, GitHub" />
+
+</div>
 
 
 <p>
